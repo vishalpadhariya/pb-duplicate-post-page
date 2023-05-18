@@ -2,7 +2,7 @@
 
 /**
  * 
- * @link              https://pbyteshub.in/
+ * @link              https://vishalpadhariya.github.io/
  * @since             1.0.0
  * @package           Pb_Duplicate_Post_Page
  *
@@ -11,8 +11,8 @@
  * Plugin URI:        https://github.com/vishalpadhariya/pb-duplicate-post-page
  * Description:       Duplicate all pages and post on one click event.
  * Version:           1.0.0
- * Author:            Pbytes Hub
- * Author URI:        https://pbyteshub.in/
+ * Author:            Vishal Padhariya
+ * Author URI:        https://vishalpadhariya.github.io/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       pb-duplicate-post-page
