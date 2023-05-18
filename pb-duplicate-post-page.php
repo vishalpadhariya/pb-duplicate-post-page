@@ -8,7 +8,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       PB Duplicate
- * Plugin URI:        https://pbyteshub.in/wordpress/plugins/pb-duplicate
+ * Plugin URI:        https://github.com/vishalpadhariya/pb-duplicate-post-page
  * Description:       Duplicate all pages and post on one click event.
  * Version:           1.0.0
  * Author:            Pbytes Hub
