@@ -2,7 +2,7 @@
 
 /**
  * 
- * @link              https://vishalpadhariya.github.io/
+ * @link              https://vishalpadhariya.in/
  * @since             1.0.0
  * @package           Pb_Duplicate_Post_Page
  *
@@ -12,7 +12,7 @@
  * Description:       Duplicate all pages and post on one click event.
  * Version:           1.0.0
  * Author:            Vishal Padhariya
- * Author URI:        https://vishalpadhariya.github.io/
+ * Author URI:        https://vishalpadhariya.in/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       pb-duplicate-post-page
