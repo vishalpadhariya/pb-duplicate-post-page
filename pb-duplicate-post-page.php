@@ -10,7 +10,7 @@
  * Plugin Name:       PB Duplicate
  * Plugin URI:        https://github.com/vishalpadhariya/pb-duplicate-post-page
  * Description:       Duplicate all pages and post on one click event.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Vishal Padhariya
  * Author URI:        https://vishalpadhariya.in/
  * License:           GPL-2.0+
