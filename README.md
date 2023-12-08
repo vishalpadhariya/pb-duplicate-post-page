@@ -3,8 +3,8 @@ Contributors: Vishal Padhariya
 Donate link: https://vishalpadhariya.github.io/
 Tags: comments, spam
 Requires at least: 4.0.0
-Tested up to: 6.2.1
-Stable tag: 5.3
+Tested up to: 6.4.2
+Stable tag: 6.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,3 +34,6 @@ for clone your any posts or pages.
 = 1.0.0 =
 * A change since the previous version.
 * Another change.
+
+= 1.0.1 =
+* Sanatize Fields
