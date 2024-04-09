@@ -4,7 +4,7 @@ Donate link: https://vishalpadhariya.in/
 Tags: comments, spam
 Requires at least: 4.0.0
 Tested up to: 6.4.3
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,4 +42,7 @@ for clone your any posts or pages.
 * Coding standard changes
 
 = 1.0.3 =
+* Coding standard changes
+
+= 1.0.4 =
 * Coding standard changes
